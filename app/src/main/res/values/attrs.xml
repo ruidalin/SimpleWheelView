@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WheelView">
+        <attr name="wheelOffset" format="integer" />
+
+        <attr name="lineColor" format="color" />
+        <attr name="lineStroke" format="dimension" />
+        <attr name="linePadding" format="dimension" />
+
+        <attr name="itemTextSize" format="dimension" />
+        <attr name="itemTextColor" format="color" />
+        <attr name="itemTextPadding" format="dimension" />
+        <attr name="itemTextSelectColor" format="color" />
+        <attr name="itemTextSelectScale" format="float" />
+    </declare-styleable>
+</resources>
